@@ -1,61 +1,82 @@
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Chaksterr.Chaksterr)](https://github.com/Chaksterr)
+<!-- Animated Header -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
+    <img src="./assets/header-light.svg" width="100%" alt="Ahmed Chakcha — AI & Data Engineering Student"/>
+  </picture>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaksterr&base=400&style=flat-square&color=1D4ED8" alt="Profile views counter"/>
+</p>
+
+---
+
+### 👤 About Me
+
+I'm an **AI & Data Engineering student** who builds systems from raw data to production. I design LLM agents, RAG and NLP solutions, build data pipelines and lakehouses with Spark, Airflow and dbt, and deploy them with MLOps, Docker, Kubernetes and CI/CD, focusing on systems that are reliable, scalable and **production-ready**.
+
+I'm currently looking for a **6-month PFE internship starting February 2027** in AI, Data Engineering or DevOps.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Chakcha;%E2%9A%A1+AI+%26+Data+Engineering+Student+%E2%9A%A1)](https://git.io/typing-svg)
-
+<table>
+  <tr>
+    <td width="230"><b>💻&nbsp; Languages & Frameworks</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=python,java,c,cpp,ts,fastapi,nestjs,spring,react" height="40" alt="Python, Java, C, C++, TypeScript, FastAPI, NestJS, Spring Boot, React"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>🤖&nbsp; AI & MLOps</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=langchain,huggingface,ollama,gemini,qdrant,tensorflow,sklearn,opencv,mlflow" height="40" alt="LangChain, Hugging Face, Ollama, Gemini, Qdrant, TensorFlow, scikit-learn, OpenCV, MLflow"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>🏗️&nbsp; Data Engineering</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=spark,hadoop,hive,airflow,dbtlabs,trino,iceberg,postgres,mongodb" height="40" alt="Spark, Hadoop, Hive, Airflow, dbt, Trino, Iceberg, PostgreSQL, MongoDB"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>🗄️&nbsp; Databases & BI</b></td>
+    <td><img src="./assets/icons/data-bi.svg" height="40" alt="Neo4j, Cassandra, Memgraph, Power BI, Tableau, Superset, Plotly, Streamlit, Grafana"/></td>
+  </tr>
+  <tr>
+    <td width="230"><b>☁️&nbsp; DevOps & Cloud</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=docker,kubernetes,terraform,ansible,azure,jenkins,githubactions,gitlab,argocd" height="40" alt="Docker, Kubernetes, Terraform, Ansible, Azure, Jenkins, GitHub Actions, GitLab CI, ArgoCD"/></td>
+  </tr>
+</table>
 </div>
 
 ---
 
-## 👤 About Me
+### 📬 Get in touch
 
-Data Engineering student passionate about AI, data systems, and open source.
-Currently exploring DevOps and how AI agents are reshaping the way data is built and managed.
+<p>
+  Have an opportunity or a project in mind? <b>Let's build something together!</b>
+</p>
 
----
-
-## 🔥 Languages & Frameworks & Tools
-
-<br/>
-
-**💻 &nbsp; Languages & Frameworks**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
-
-<br/>
-
-**🤖 &nbsp; AI / ML & Data**
-
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![DVC](https://img.shields.io/badge/DVC-945DD5?style=for-the-badge&logo=dvc&logoColor=white)](#)
-
-<br/>
-
-**⚙️ &nbsp; DevOps, CI/CD & Cloud**
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-
----
-
-## 🤝 Let's Connect
-
-<div align="left">
-  <a href="mailto:ahmad.chakcha@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad-chakcha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
+<div align="center">
+<table>
+  <tr>
+    <td width="170"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="20" align="center"/>&nbsp; <b>Email</b></td>
+    <td width="300" align="right"><a href="mailto:ahmad.chakcha@gmail.com">ahmad.chakcha@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="20" align="center"/>&nbsp; <b>LinkedIn</b></td>
+    <td align="right"><a href="https://www.linkedin.com/in/ahmad-chakcha">linkedin.com/in/ahmad-chakcha</a></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/icons/website.svg" height="20" align="center"/>&nbsp; <b>Website</b></td>
+    <td align="right"><a href="https://chaksterr.me">chaksterr.me</a></td>
+  </tr>
+</table>
 </div>
+
+<!-- Animated Footer -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"/>
+    <img src="./assets/footer-light.svg" width="100%" alt="Thanks for stopping by"/>
+  </picture>
+</p>

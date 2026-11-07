@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" id="website">
+<style>
+#website rect{fill:#242938}
+#website .s{stroke:#7AA2FF}
+@media (prefers-color-scheme: light){#website rect{fill:#F4F2ED}#website .s{stroke:#1D4ED8}}
+</style>
+<rect width="256" height="256" rx="60"/>
+<g class="s" stroke-width="12" stroke-linecap="round" fill="none">
+  <circle cx="128" cy="128" r="72"/>
+  <ellipse cx="128" cy="128" rx="32" ry="72"/>
+  <line x1="56" y1="128" x2="200" y2="128"/>
+  <path d="M68 92 H188 M68 164 H188" stroke-width="9"/>
+</g>
+</svg>
