@@ -17,7 +17,7 @@
 
 I'm an **AI & Data Engineering student** who builds systems from raw data to production. I design LLM agents, RAG and NLP solutions, build data pipelines and lakehouses with Spark, Airflow and dbt, and deploy them with MLOps, Docker, Kubernetes and CI/CD, focusing on systems that are reliable, scalable and **production-ready**.
 
-I'm currently looking for a **6-month PFE internship starting February 2027** in AI, Data Engineering or DevOps.
+I'm currently looking for a **6-month PFE internship** in AI, Data Engineering or DevOps.
 
 ---
 
@@ -64,7 +64,7 @@ I'm currently looking for a **6-month PFE internship starting February 2027** in
   </tr>
   <tr>
     <td><img src="./assets/icons/linkedin.svg" height="20" align="center"/>&nbsp; <b>LinkedIn</b></td>
-    <td align="right"><a href="https://www.linkedin.com/in/ahmad-chakcha">linkedin.com/in/ahmad-chakcha</a></td>
+    <td align="right"><a href="https://www.linkedin.com/in/ahmed-chakcha">linkedin.com/in/ahmed-chakcha</a></td>
   </tr>
   <tr>
     <td><img src="./assets/icons/website.svg" height="20" align="center"/>&nbsp; <b>Website</b></td>
