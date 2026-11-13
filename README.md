@@ -27,15 +27,15 @@ I'm currently looking for a **6-month PFE internship starting February 2027** in
 <table>
   <tr>
     <td width="230"><b>💻&nbsp; Languages & Frameworks</b></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=python,java,c,cpp,ts,fastapi,nestjs,spring,react" height="40" alt="Python, Java, C, C++, TypeScript, FastAPI, NestJS, Spring Boot, React"/></td>
+    <td><img src="./assets/icons/languages.svg" height="40" alt="Python, Java, C, C++, TypeScript, FastAPI, NestJS, Spring Boot, React"/></td>
   </tr>
   <tr>
     <td width="230"><b>🤖&nbsp; AI & MLOps</b></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=langchain,huggingface,ollama,gemini,qdrant,tensorflow,sklearn,opencv,mlflow" height="40" alt="LangChain, Hugging Face, Ollama, Gemini, Qdrant, TensorFlow, scikit-learn, OpenCV, MLflow"/></td>
+    <td><img src="./assets/icons/ai-mlops.svg" height="40" alt="LangChain, Hugging Face, Ollama, Gemini, Qdrant, TensorFlow, scikit-learn, OpenCV, MLflow"/></td>
   </tr>
   <tr>
     <td width="230"><b>🏗️&nbsp; Data Engineering</b></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=spark,hadoop,hive,airflow,dbtlabs,trino,iceberg,postgres,mongodb" height="40" alt="Spark, Hadoop, Hive, Airflow, dbt, Trino, Iceberg, PostgreSQL, MongoDB"/></td>
+    <td><img src="./assets/icons/data-engineering.svg" height="40" alt="Spark, Hadoop, Hive, Airflow, dbt, Trino, Iceberg, PostgreSQL, MongoDB"/></td>
   </tr>
   <tr>
     <td width="230"><b>🗄️&nbsp; Databases & BI</b></td>
@@ -43,7 +43,7 @@ I'm currently looking for a **6-month PFE internship starting February 2027** in
   </tr>
   <tr>
     <td width="230"><b>☁️&nbsp; DevOps & Cloud</b></td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?perline=10&i=docker,kubernetes,terraform,ansible,azure,jenkins,githubactions,gitlab,argocd" height="40" alt="Docker, Kubernetes, Terraform, Ansible, Azure, Jenkins, GitHub Actions, GitLab CI, ArgoCD"/></td>
+    <td><img src="./assets/icons/devops-cloud.svg" height="40" alt="Docker, Kubernetes, Terraform, Ansible, Azure, Jenkins, GitHub Actions, GitLab CI, ArgoCD"/></td>
   </tr>
 </table>
 </div>
@@ -59,11 +59,11 @@ I'm currently looking for a **6-month PFE internship starting February 2027** in
 <div align="center">
 <table>
   <tr>
-    <td width="170"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="20" align="center"/>&nbsp; <b>Email</b></td>
+    <td width="170"><img src="./assets/icons/gmail.svg" height="20" align="center"/>&nbsp; <b>Email</b></td>
     <td width="300" align="right"><a href="mailto:ahmad.chakcha@gmail.com">ahmad.chakcha@gmail.com</a></td>
   </tr>
   <tr>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="20" align="center"/>&nbsp; <b>LinkedIn</b></td>
+    <td><img src="./assets/icons/linkedin.svg" height="20" align="center"/>&nbsp; <b>LinkedIn</b></td>
     <td align="right"><a href="https://www.linkedin.com/in/ahmad-chakcha">linkedin.com/in/ahmad-chakcha</a></td>
   </tr>
   <tr>
