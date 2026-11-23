@@ -17,20 +17,15 @@
 
 I'm an **AI & Data Engineering student** who builds systems from raw data to production. I design LLM agents, RAG and NLP solutions, build data pipelines and lakehouses with Spark, Airflow and dbt, and deploy them with MLOps, Docker, Kubernetes and CI/CD, focusing on systems that are reliable, scalable and **production-ready**.
 
-I'm currently looking for a **6-month PFE internship** in AI, Data Engineering or DevOps, starting in February 2027. Have an opportunity or a project in mind? Let's connect:
+I'm currently looking for a **6-month PFE internship** in AI, Data Engineering or DevOps, starting in February 2027.
 
-<div align="center">
-<table>
-  <tr>
-    <td width="170"><img src="./assets/icons/gmail.svg" height="20" align="center" alt=""/>&nbsp; <b>Email</b></td>
-    <td width="300" align="right"><a href="mailto:ahmad.chakcha@gmail.com">ahmad.chakcha@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td width="170"><img src="./assets/icons/linkedin.svg" height="20" align="center" alt=""/>&nbsp; <b>LinkedIn</b></td>
-    <td width="300" align="right"><a href="https://www.linkedin.com/in/ahmed-chakcha">linkedin.com/in/ahmed-chakcha</a></td>
-  </tr>
-</table>
-</div>
+Have an opportunity or a project in mind? Let's connect:
+
+<p>
+  <a href="mailto:ahmad.chakcha@gmail.com"><img height="24" src="https://img.shields.io/badge/Email-ahmad.chakcha%40gmail.com-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white&amp;labelColor=555555" alt="Email: ahmad.chakcha@gmail.com"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-chakcha"><img height="24" src="https://img.shields.io/badge/LinkedIn-ahmed--chakcha-0A66C2?style=flat&amp;labelColor=555555&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4%3D" alt="LinkedIn: ahmed-chakcha"/></a>
+</p>
 
 ---
 
@@ -68,37 +63,43 @@ I'm currently looking for a **6-month PFE internship** in AI, Data Engineering o
 <table>
   <tr>
     <td width="50%" valign="top">
+      <sub><b>AI &amp; LLM</b></sub><br/>
       <a href="https://github.com/Chaksterr/Agentic-Web-Scraper"><b>Agentic Web Scraper</b></a><br/>
-      Autonomous scraper combining Stagehand and LangGraph agents, with cached extraction schemas that cut LLM costs.<br/>
+      Autonomous scraper with cached extraction schemas that cut LLM costs.<br/>
       <sub>LangGraph · Stagehand · Microsoft Foundry</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Chaksterr/churnhouse"><b>Churnhouse</b></a><br/>
-      End-to-end telecom lakehouse that predicts which customers will churn and explains why.<br/>
-      <sub>Trino · dbt · Iceberg · Airflow · Superset</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <sub><b>AI &amp; NLP</b></sub><br/>
       <a href="https://github.com/Chaksterr/CareTalk"><b>CareTalk</b></a><br/>
       French medical chatbot built on fine-tuned GPT-2 models for three diseases.<br/>
       <sub>Python · GPT-2 · NLP · Streamlit</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Chaksterr/K8S_IAC"><b>Kubernetes Infrastructure as Code</b></a><br/>
-      Multi-node Kubernetes platform with automated CI/CD, ingress, storage and observability.<br/>
-      <sub>Kubernetes · Ansible · Jenkins · Traefik · Grafana</sub>
+      <sub><b>DATA ENGINEERING</b></sub><br/>
+      <a href="https://github.com/Chaksterr/churnhouse"><b>Churnhouse</b></a><br/>
+      End-to-end telecom lakehouse that predicts customer churn and explains why.<br/>
+      <sub>Trino · dbt · Iceberg · Airflow · Superset</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>BLOCKCHAIN</b></sub><br/>
+      <a href="https://github.com/Chaksterr/Crowdfunding-blockchain"><b>Cagnotte</b></a><br/>
+      Ethereum crowdfunding platform where donors vote to release the funds.<br/>
+      <sub>Solidity · Hardhat · ethers.js · React</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Chaksterr/Crowdfunding-blockchain"><b>Cagnotte</b></a><br/>
-      Ethereum crowdfunding platform where smart contracts hold funds and donors vote on their release.<br/>
-      <sub>Solidity · Hardhat · ethers.js · React</sub>
+      <sub><b>DEVOPS</b></sub><br/>
+      <a href="https://github.com/Chaksterr/K8S_IAC"><b>Kubernetes IaC</b></a><br/>
+      Multi-node Kubernetes platform with automated CI/CD and observability.<br/>
+      <sub>Kubernetes · Ansible · Jenkins · Traefik · Grafana</sub>
     </td>
     <td width="50%" valign="top">
+      <sub><b>INFRASTRUCTURE</b></sub><br/>
       <a href="https://github.com/Chaksterr/HAGate"><b>HAGate</b></a><br/>
-      Two-site network infrastructure with HAProxy and Keepalived failover, automated with Ansible.<br/>
+      Two-site network with HAProxy and Keepalived failover, automated with Ansible.<br/>
       <sub>OPNsense · IPsec · HAProxy · Keepalived · Ansible</sub>
     </td>
   </tr>
